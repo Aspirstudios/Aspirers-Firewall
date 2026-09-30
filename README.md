@@ -8,23 +8,6 @@ Aspirers Firewall controls network traffic on a **per-application basis**, rathe
 
 ---
 
-## Table of Contents
-
-* [What It Does](#what-it-does)
-* [Features](#features)
-* [Requirements](#requirements)
-* [Quick Start](#quick-start)
-* [Building the EXE](#building-the-exe)
-* [Using It](#using-it)
-* [Configuration File](#configuration-file)
-* [Command-Line Options](#command-line-options)
-* [How It Works](#how-it-works)
-* [Limitations](#limitations)
-* [Troubleshooting](#troubleshooting)
-* [Credits](#credits)
-* [License](#license)
-
----
 
 ## What It Does
 
