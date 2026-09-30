@@ -253,6 +253,3 @@ Check the **Log** tab to see the exact executable path associated with the block
 
 ---
 
-## License
-
-See the project's license file for licensing information.
